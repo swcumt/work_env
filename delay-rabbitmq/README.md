@@ -1,2 +1,2 @@
 # Delay RabbitMQ
-### rabbitmq wihtd x-delay plugin
+### rabbitmq with x-delay plugin
